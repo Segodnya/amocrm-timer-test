@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Input timer value (in seconds) and click "Start" to start the countdown.
 
+## GIthub Pages
+
+https://segodnya.github.io/amocrm-timer-test/
+
 ## Available Scripts
 
 In the project directory, you can run:
